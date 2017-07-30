@@ -1,0 +1,8 @@
+{
+  "name": "plumbook",
+  "version": "0.1.0",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "js-yaml": "^3.9.1"
+  }
+}
