@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "axios": "^0.16.2",
+    "d3-dsv": "^1.0.5",
     "js-yaml": "^3.9.1"
   }
 }
